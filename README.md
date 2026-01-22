@@ -36,19 +36,39 @@ npm install
 Clone repository:
 git clone <repository-url>
 cd inventory-system
-"""
+'''
+clone....
+'''->end
+'''->start
+npm install
+'''
 Install dependencies:
 npm install
-"""
+'''
+clone....
+'''->end
+'''->start
+npm install
+'''
 Buat file .env di root folder:
 DB_USERNAME=root
 DB_PASSWORD=your_mysql_password
 DB_NAME=inventory_db
 DB_HOST=127.0.0.1
 JWT_SECRET=your_jwt_secret
-"""
+'''
+clone....
+'''->end
+'''->start
+npm install
+'''
 Jalankan migration Sequelize:
 npx sequelize-cli db:migrate
-"""
+'''
+clone....
+'''->end
+'''->start
+npm install
+'''
 Jalankan server:
 node app.js
