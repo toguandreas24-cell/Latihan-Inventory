@@ -27,7 +27,7 @@ inventory-systems/
 ├─ app.js
 ├─ package.json
 └─ README.md
-
+```
 
 ```
 **Clone repository:**
