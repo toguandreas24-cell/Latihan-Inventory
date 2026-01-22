@@ -1,5 +1,4 @@
-inventory-system/
-├─   controllers/
+inventory-systems/
 │   ├─ authController.js
 │   └─ itemController.js
 ├─ middlewares/
