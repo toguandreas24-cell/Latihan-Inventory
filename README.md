@@ -1,3 +1,4 @@
+```
 inventory-systems/
 │   ├─ authController.js
 │   └─ itemController.js
